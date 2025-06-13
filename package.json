@@ -1,0 +1,12 @@
+{
+  "name": "tsgo-ts6305",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:joshcartme/tsgo-ts6305.git",
+  "author": "Bread <764456+joshcartme@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@typescript/native-preview": "^7.0.0-dev.20250613.1",
+    "typescript": "^5.8.3"
+  }
+}
