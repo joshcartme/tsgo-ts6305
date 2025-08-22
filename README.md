@@ -25,7 +25,7 @@ Then to break it again if you clean the build:
 $ yarn run tsc --build --clean
 Done in 0.13s.
 
-$ /home/loafe/development/tsgo/tsgo-ts6305/node_modules/.bin/tsgo
+$ yarn run tsgo --build
 index.ts:1:21 - error TS6305: Output file '/home/tsgo/tsgo-ts6305/lib/dist/foo.d.ts' has not been built from source file '/home/tsgo/tsgo-ts6305/lib/foo.ts'.
 
 1 import { FOO } from "./lib/foo";
