@@ -6,7 +6,7 @@
   "author": "Bread <764456+joshcartme@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "@typescript/native-preview": "^7.0.0-dev.20250822.1",
+    "@typescript/native-preview": "^7.0.0-dev.20250902.1",
     "typescript": "^5.8.3"
   },
   "packageManager": "yarn@4.9.3"
